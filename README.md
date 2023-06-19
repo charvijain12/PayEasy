@@ -20,7 +20,7 @@ cd Simple-Employee-Payroll
 
 3. Run the program using the command below:
 ```
-python payroll.py
+python payroll.c
 ```
 
 4. Follow the on-screen instructions to add employees and calculate payroll.
