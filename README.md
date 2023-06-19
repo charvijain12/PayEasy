@@ -1,5 +1,5 @@
 # Simple Employee Payroll
-This is a Python program that simulates a simple employee payroll system. It is designed to help small business owners manage their employees' salary information, including their hourly wage, hours worked, and deductions for taxes and other expenses. The program calculates each employee's gross pay, net pay, and taxes owed based on the provided input.
+This is a C program that simulates a simple employee payroll system. It is designed to help small business owners manage their employees' salary information, including their hourly wage, hours worked, and deductions for taxes and other expenses. The program calculates each employee's gross pay, net pay, and taxes owed based on the provided input.
 
 The program consists of several classes, including Employee, Payroll, and Tax. The Employee class defines the attributes and methods associated with each employee, such as their name, hourly wage, hours worked, and deductions. The Payroll class manages the list of employees and their associated salary information, and provides methods for adding and removing employees, calculating payroll, and printing out employee salary information. The Tax class handles the calculation of taxes owed based on the employee's gross pay and tax rate.
 
